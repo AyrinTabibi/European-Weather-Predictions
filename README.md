@@ -444,4 +444,4 @@ All three algorithms fulfill different objectives for European weather predictio
 Among all the possibilities I have discussed, I would choose Random Forests to identify important features for extreme weather predictions and CNN to predict extreme weather events, as it had the highest accuracy for the entire dataset.
 
 
-I hope you have found something useful. If you have any questions or suggestions for me, feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/nirav-bariya/) profile or [email](mailto:nkb.bariya@gmail.com) me.  Have a great rest of the day!
+I hope you have found something useful. If you have any questions or suggestions for me, feel free to reach out via my [LinkedIn](https://www.linkedin.com/in/ayrin-tabibi/) profile or [email](mailto:Ayrin.Tabibi2021@gmail.com) me.  
